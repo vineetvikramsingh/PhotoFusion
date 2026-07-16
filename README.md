@@ -36,8 +36,9 @@ A Look Inside:
 <img width="1907" height="1075" alt="image" src="https://github.com/user-attachments/assets/b9bae9b1-b320-4a17-b298-627ee4beafb4" />
 
 Live Demo:
-https://photo-fusion-rho.vercel.app/
- What's Next on the Roadmap?
+https://photo-fusion-rho.vercel.app
+
+What's Next on the Roadmap?
 Right now, PhotoFusion is a frontend prototype demonstrating a seamless discovery experience. I'm actively working on turning it into a full-stack booking ecosystem. Up next:
 [Secure user and photographer authentication]
 [A dedicated creator dashboard for managing portfolios and schedules}]
